@@ -1,11 +1,11 @@
 export const translations = {
   en: {
     // 元数据
-    metaTitle: 'ITUSI - Leading AI Innovation and Development',
+    metaTitle: 'Artai - Leading AI Innovation and Development',
     metaDescription: 'Empowering businesses through AI innovation, education, and global expansion. Discover our AI courses, overseas business services, and cutting-edge solutions.',
     
     // 标题
-    companyName: 'ITUSI',
+    companyName: 'Artai',
     // 首页
     heroTitle1: 'Empowering Innovation Through AI',
     heroTitle2: 'Transform Your Business with AI',
@@ -99,17 +99,17 @@ export const translations = {
     
     // 产品部分
     ourProducts: '我们的产品',
-    product1Title: '沃图社',
+    product1Title: '艺创AI数字人',
     product1Desc: 'Ai探索家，专注于编写有关Ai系列的教学文章，适用于对Ai感兴趣人群的学习交流',
-    product2Title: '沃图AIGC',
+    product2Title: '艺创知识库',
     product2Desc: '分享全球最新最全的AI工具',
-    product3Title: 'WTAI Navigation',
+    product3Title: '艺创AI导航',
     product3Desc: '高品质最新最全AI导航',
-    product4Title: '沃图海',
+    product4Title: '艺创聊天绘画',
     product4Desc: '分享出海业务的一些问题与经验',
-    product5Title: '智能翻译助手',
+    product5Title: '艺创论文创作',
     product5Desc: '一站式多语言翻译解决方案，支持文本、图片、PDF、语音和视频翻译',
-    product6Title: 'VoiceCanvas',
+    product6Title: '艺创语音合成',
     product6Desc: '40余种语言即时文本转语音，支持声音克隆，基于先进AI技术实现清晰自然的语音合成',
     
     // 关于部分

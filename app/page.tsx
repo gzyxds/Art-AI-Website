@@ -39,42 +39,43 @@ const rotateAnimation = {
   },
 };
 
+// 产品列表
 const products = [
   {
     titleKey: 'product1Title' as TranslationKey,
     descriptionKey: 'product1Desc' as TranslationKey,
     image: "/images/wotushe.png",
-    link: "https://www.52wts.cn"
+    link: "https://artaigc.cn"
   },
   {
     titleKey: 'product2Title' as TranslationKey,
     descriptionKey: 'product2Desc' as TranslationKey,
     image: "/images/wtaigc.png",
-    link: "https://www.wtaigc.com"
+    link: "https://artaigc.cn"
   },
   {
     titleKey: 'product3Title' as TranslationKey,
     descriptionKey: 'product3Desc' as TranslationKey,
     image: "/images/wtai.png",
-    link: "https://wtai.cc"
+    link: "https://artaigc.cn"
   },
   {
     titleKey: 'product4Title' as TranslationKey,
     descriptionKey: 'product4Desc' as TranslationKey,
     image: "/images/wtsea.png",
-    link: "https://wtsea.cn"
+    link: "https://artaigc.cn"
   },
   {
     titleKey: 'product5Title' as TranslationKey,
     descriptionKey: 'product5Desc' as TranslationKey,
     image: "/images/aitranslation.png",
-    link: "https://aitranslate.site"
+    link: "https://artaigc.cn"
   },
   {
     titleKey: 'product6Title' as TranslationKey,
     descriptionKey: 'product6Desc' as TranslationKey,
     image: "/images/voicecanvas.png",
-    link: "https://voicecanvas.org"
+    link: "https://artaigc.cn"
   }
 ];
 
