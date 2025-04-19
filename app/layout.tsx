@@ -9,23 +9,23 @@ import GoogleAnalytics from '@/components/google-analytics';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'ITUSI - Leading AI Innovation and Development',
+  title: 'Artai - Leading AI Innovation and Development',
   description: 'Transform your business with cutting-edge AI solutions. Join us in shaping the future of technology.',
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: '32x32' },
-      { url: '/logo.png', sizes: 'any' }
+      { url: '/logo.svg', sizes: 'any' }
     ],
-    apple: '/logo.png',
+    apple: '/logo.svg',
   },
   openGraph: {
-    title: 'ITUSI - Leading AI Innovation and Development',
+    title: 'Artai - Leading AI Innovation and Development',
     description: 'Transform your business with cutting-edge AI solutions. Join us in shaping the future of technology.',
     images: ['/images/og-image.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ITUSI - Leading AI Innovation and Development',
+    title: 'Artai - Leading AI Innovation and Development',
     description: 'Transform your business with cutting-edge AI solutions. Join us in shaping the future of technology.',
     images: ['images/og-image.png'],
   },

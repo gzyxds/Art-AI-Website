@@ -10,8 +10,8 @@ export default function Logo() {
     <div className="flex items-center gap-2">
       <div className="relative h-8 w-8">
         <Image 
-          src="/logo.png" 
-          alt="ITUSI Logo" 
+          src="/logo.svg" 
+          alt="Artai Logo" 
           fill
           className="object-contain"
           sizes="32px"

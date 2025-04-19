@@ -15,20 +15,20 @@ export function generateMetadata({ language }: GenerateMetadataProps): Metadata 
     icons: {
       icon: [
         { url: '/favicon.ico', sizes: '32x32' },
-        { url: '/logo.png', sizes: 'any' }
+        { url: '/logo.svg', sizes: 'any' }
       ],
-      apple: '/logo.png',
+      apple: '/logo.svg',
     },
     openGraph: {
       title,
       description,
-      images: ['/logo.png'],
+      images: ['/logo.svg'],
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
-      images: ['/logo.png'],
+      images: ['/logo.svg'],
     },
   };
 }
